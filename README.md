@@ -1,0 +1,1 @@
+Este projeto é uma solução para o desafio de cálculo de média ponderada, com verificação de aprovação, exame e reprovação. O código lê quatro notas, calcula a média com pesos (2, 3, 4 e 1) e trata o fluxo de recuperação do aluno.
